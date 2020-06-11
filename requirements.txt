@@ -1,3 +1,7 @@
 py-trello
 pandas
 matplotlib
+pandas
+xlrd
+openpyxl
+termcolor
